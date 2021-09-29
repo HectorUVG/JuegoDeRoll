@@ -1,3 +1,12 @@
+/*******************************************************************************
+Combatiente.java
+Autor: Héctor de León
+Fecha de Creación: Septiembre de 2021
+Última Modificación: Septiembre de 2021
+
+Ejercicio No. 4
+******************************************************************************/
+
 //Esta es la superclase de la que se van a derivar el resto de jugadores del 
 //juego
 
